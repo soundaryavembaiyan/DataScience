@@ -1,2 +1,1 @@
-# DataScience
-Workouts of DS
+# Repo for DigiCoffer Data Science Training Session
